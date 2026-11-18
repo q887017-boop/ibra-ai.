@@ -1,0 +1,14 @@
+{
+  "name": "IBRA AI — Kaaliyahaaga Soomaaliyeed",
+  "short_name": "IBRA AI",
+  "description": "Kaaliyaha Af-Soomaaliga iyo English-ka.",
+  "lang": "so",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#070b14",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
