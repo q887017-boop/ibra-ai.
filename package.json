@@ -1,0 +1,8 @@
+{
+  "name": "ibra-ai-somali-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "IBRA AI Somali-English assistant with a server-side Gemini API proxy and PWA support",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
